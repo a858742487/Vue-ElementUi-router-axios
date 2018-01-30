@@ -1,5 +1,7 @@
 # my-project
 
+预览地址 : http://xiangguankeji.cn/Vue/#/
+
 > A Vue.js project
 
 ## Build Setup
