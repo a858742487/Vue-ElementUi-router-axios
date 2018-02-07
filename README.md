@@ -1,3 +1,8 @@
+
+##### 运行截图
+
+![](http://gf95.cn/img/chedui/ScreenGif.gif)
+
 ## my-project
 
 预览地址 : http://xiangguankeji.cn/Vue/#/
