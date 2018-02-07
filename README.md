@@ -1,7 +1,7 @@
 
 ##### 运行截图
 
-![](http://gf95.cn/img/chedui/jobjob.jpg)
+![](http://gf95.cn/img/chedui/ScreenGif.gif)
 
 ### 运行动图
 
