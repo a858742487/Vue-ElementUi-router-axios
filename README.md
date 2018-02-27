@@ -9,7 +9,7 @@
 
 ## my-project
 
-预览地址 : http://xiangguankeji.cn/Vue/#/
+预览地址 : http://xiangguankeji.cn/Vue/#/ 
 
 #### 项目是用Vue为基础, 用了路由vue-router, 加载数据用了axios, UI框架用的ElementUi,
 
