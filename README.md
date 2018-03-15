@@ -5,7 +5,7 @@
 
 ### 运行动图    
 
-[播放请点击这里](http://gf95.cn/img/chedui/ScreenGif.gif)
+[播放请点击这里](http://gf95.cn/img/chedui/ScreenGif.gif)   
 
 ## my-project   
 
