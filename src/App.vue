@@ -7,7 +7,7 @@
             <el-row>
               <el-col :span="3">
                 <div class="grid-content bg-purple logo">
-                  <img :src="bgBanner" alt="">
+                  <img :src="bgBanner" alt="">    
                 </div>
               </el-col>
               <el-col :span="16" class="navMain">
