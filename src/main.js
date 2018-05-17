@@ -37,7 +37,7 @@ import technicalDetailsMain from './components/technicalDetails/technicalDetails
 
 
 
-// axios2.引用完 $http这样定义.省略Vue.use()注册步骤
+// axios2.引用完 $http这样定义.省略Vue.use()注册步骤      
 Vue.prototype.$http = axios
 Vue.config.productionTip = false
 Vue.use(ElementUI)
