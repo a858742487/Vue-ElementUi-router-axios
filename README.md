@@ -32,5 +32,5 @@ npm install --registry=https://registry.npm.taobao.org
 npm run dev
 
 # build for production with minification 打包  
-npm run build      
+npm run build           
      
